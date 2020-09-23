@@ -1,0 +1,11 @@
+this logs into ycht and conencts to chat and voice
+this is the first time i done anything w/ voice, so it may not work that geat but it seems to work good
+the yacsome library comes w/ yahoo messenger
+i may make a ymsg and chat2 voice clients someday, or maby a general vox
+ive been thinking about making a fully functional chat client like yahelite, if i do it will be open source :)
+
+
+dont forget to give cridit!
+
+-Matthew Robertson
+mailto:uphome@nbnet.nb.ca
